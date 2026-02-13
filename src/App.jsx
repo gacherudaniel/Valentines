@@ -25,7 +25,7 @@ function App() {
       </div>
       
       <h1 className="title">
-        Hey Beautiful! 💖
+        Hey My Beautiful Shalom! 💖
       </h1>
       
       <div className="message">
@@ -93,8 +93,6 @@ function App() {
           <h3>My Valentine's Day Promises:</h3>
           <ul>
             <li>😷 I'll wear a mask (a cute one!)</li>
-            <li>🧴 I'll bring hand sanitizer</li>
-            <li>🌹 I'll still bring you flowers (from a safe distance)</li>
             <li>🍫 I'll get you your favorite chocolates</li>
             <li>💕 I'll make it the most romantic socially-distant date ever!</li>
           </ul>
