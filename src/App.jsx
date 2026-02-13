@@ -94,7 +94,6 @@ function App() {
           <ul>
             <li>😷 I'll wear a mask (a cute one!)</li>
             <li>🍫 I'll get you your favorite chocolates</li>
-            <li>💕 I'll make it the most romantic socially-distant date ever!</li>
           </ul>
         </div>
         
